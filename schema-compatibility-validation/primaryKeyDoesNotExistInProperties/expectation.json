@@ -1,0 +1,6 @@
+{
+  "status": "error",
+  "error": {
+    "message": "PrimaryKey field named \"name\" was not present in properties"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "status": "error",
+  "error": {
+    "message": "property name=balance, is not present in newer version"
+  }
+}

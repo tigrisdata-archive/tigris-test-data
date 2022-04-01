@@ -1,0 +1,6 @@
+{
+  "status": "error",
+  "error": {
+    "message": "Change in type detected for field named = balance"
+  }
+}
