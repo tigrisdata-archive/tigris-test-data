@@ -1,6 +1,6 @@
 {
   "status": "error",
   "error": {
-    "message": "PrimaryKey field named \"name\" was not present in properties"
+    "message": "Change in primary_key field was detected"
   }
 }
